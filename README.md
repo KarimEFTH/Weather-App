@@ -1,2 +1,2 @@
-(images/image1.PNG)
-(images/image2.PNG)
+(image1.PNG)
+(image2.PNG)
