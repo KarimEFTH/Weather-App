@@ -7,9 +7,9 @@ A simple Android application that displays the current weather conditions for a 
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KarimEFTH/Weather-App/main/image1.PNG" width="300" alt="App Screenshot 1">
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/KarimEFTH/Weather-App/main/image2.PNG" width="300" alt="App Screenshot 2">
+  <img src="https://raw.githubusercontent.com/KarimEFTH/Weather-App/master/image1.PNG" width="300" alt="App Screenshot 1">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/KarimEFTH/Weather-App/master/image2.PNG" width="300" alt="App Screenshot 2">
 </p>
 
 ## Features
